@@ -1,9 +1,11 @@
 # Data Intensive Computing - 2024S
 
-## Exercise 2. Large Text Corpora Processing - [Overleaf project](httpswww.overleaf.com2915981151zzqyhfznckzc#dcbaeb)
+## Exercise 2. Large Text Corpora Processing
 
-### Dataset
-- Amazon Review Dataset
+[Overleaf project](httpswww.overleaf.com2915981151zzqyhfznckzc#dcbaeb)
+
+**Dataset**: Amazon Review Dataset
+
 
 ### Tasks
 
@@ -18,10 +20,12 @@ Extend the pipeline from Part 2 to train a Support Vector Machine (SVM) classifi
 
 
 
-## Exercise 3. Computational Offloading of Object Detection Services - [Overleaf project](https://www.overleaf.com/8111393219zrkvpgvxspxp#b00c71)
+## Exercise 3. Computational Offloading of Object Detection Services -
 
-### Dataset
--  [COCO (Common Objects in Context Dataset)](http://cocodataset.org/#home)
+[Overleaf project](https://www.overleaf.com/8111393219zrkvpgvxspxp#b00c71)
+
+**Dataset**: [COCO (Common Objects in Context Dataset)](http://cocodataset.org/#home)
+
 
 ### Tasks
 
