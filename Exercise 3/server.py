@@ -27,51 +27,59 @@ layer_names = net.getLayerNames()
 output_layers = [layer_names[i - 1] for i in net.getUnconnectedOutLayers()]
 
 
+#Define function for POST request
 @app.route('/', methods=['POST'])
 def detect_objects():
-    #Define function for POST request
-    if request.method == 'POST':
-        ## Average Inference Time Calculation
-        global countImages
-        countImages = countImages + 1
-        ##
+    t1_server = time.time()
+    ## Average Inference Time Calculation
+    global countImages
+    countImages = countImages + 1
+    ##
+    start_time = time.time()
 
-        #Get data from POST request and decode
-        image_id = request.get_json().get('id')
-        image_data = request.get_json().get('image_data')
-        image = base64.b64decode(image_data)
+    #Get data from POST request and decode
+    image_id = request.get_json().get('id')
+    image_data = request.get_json().get('image_data')
+    image = base64.b64decode(image_data)
 
-        start_time = time.time()
-        # Convert image to OpenCV format
-        image = cv2.imdecode(np.frombuffer(image, np.uint8), cv2.IMREAD_COLOR)
+    # Convert image to OpenCV format
+    image = cv2.imdecode(np.frombuffer(image, np.uint8), cv2.IMREAD_COLOR)
 
-        # Perform object detection with YOLO
-        blob = cv2.dnn.blobFromImage(image, 1 / 255.0, (416, 416), swapRB=True, crop=False)
-        net.setInput(blob)
-        outputs = net.forward(output_layers)
+    # Perform object detection with YOLO
+    blob = cv2.dnn.blobFromImage(image, 1 / 255.0, (416, 416), swapRB=True, crop=False)
+    net.setInput(blob)
+    outputs = net.forward(output_layers)
 
-        # Process detections
-        results = []
-        for output in outputs:
-            for detection in output:
-                scores = detection[5:]
-                class_id = np.argmax(scores)
-                confidence = scores[class_id]
-                # At over 50% confidence add detection to results
-                if confidence > 0.5:
-                    class_label = labels[class_id]
-                    results.append({"label": class_label, "accuracy": str(confidence)})
+    # Process detections
+    results = []
+    for output in outputs:
+        for detection in output:
+            scores = detection[5:]
+            class_id = np.argmax(scores)
+            confidence = scores[class_id]
+            # At over 50% confidence add detection to results
+            if confidence > 0.5:
+                class_label = labels[class_id]
+                results.append({"label": class_label, "accuracy": str(confidence)})
 
-        ## Average Inference Time Calculation
-        global runtime
-        runtime = runtime + time.time() - start_time
-        global avgTime
-        avgTime = runtime / countImages
-        print("Average Inference Time: " + str(avgTime))
-        ##
+    ## Average Inference Time Calculation
+    global runtime
+    image_time = time.time() - start_time
+    runtime = runtime + image_time
+    global avgTime
+    avgTime = runtime / countImages
+    print("Average Inference Time: " + str(avgTime))
 
-        return jsonify({'id': image_id, 'objects': results})
-    return jsonify({'error': 'Unsupported method'}), 405
+    with open("output\local_server_IT.txt", "a") as f:
+        f.write(f"{image_id}, {image_time}, {avgTime}\n")
+    ##
+
+    t2_server = time.time()
+    # Transfer Time saved
+    with open("output\local_server_TT.txt", "a") as f:
+        f.write(f"{image_id}, {t1_server}, {t2_server}\n")
+
+    return jsonify({'id': image_id, 'objects': results})
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=PORT)

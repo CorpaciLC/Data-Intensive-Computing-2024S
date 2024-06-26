@@ -3,6 +3,7 @@ import sys
 import uuid
 import base64
 import requests
+import time
 
 def send_image(image_path, server):
     # Read and encode image
@@ -12,7 +13,14 @@ def send_image(image_path, server):
     image_id = str(uuid.uuid4())
     image = {"id": image_id, "image_data": image_data}
     # Send POST request to server
+    t1_client = time.time()
     response = requests.post(server, json=image)
+    t2_client = time.time()
+
+    # Transfer Time saved
+    with open("output/local_client_TT.txt", "a") as f:
+        f.write(f"{image_id}, {t1_client}, {t2_client}\n")
+
     # Ensure correct response and return result
     if response.status_code == 200:
         object_detection = response.json()
@@ -34,4 +42,7 @@ if __name__ == "__main__":
     # Read images from folder
     for filename in os.listdir(input_folder):
         image_path = os.path.join(input_folder, filename)
-        print(send_image(image_path, server))
+        result = send_image(image_path, server)
+        print(result)
+        with open("output/results.txt", "a") as f:
+            f.write(f"{result}\n")
