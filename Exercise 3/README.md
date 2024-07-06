@@ -11,6 +11,9 @@ This guide describes the steps to set up and deploy an AWS Lambda function with 
 
 ## Steps
 
+### 0. Setup
+From aws academy -> Launch AWS Academy Learner Lab -> aws details -> copy contents of aws cli to ~/.aws/credentials and save
+
 ### 1. Prepare YOLO Configuration Files and store them to an S3 bucket
 
 ### 2. Create a Dockerfile
