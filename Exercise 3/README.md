@@ -39,7 +39,7 @@ docker build -t lambda-docker .
 ```
 
 ### 4. Login to AWS ECR
-Change <region> and <aws_account_id> accordingly
+Change \<region\> and <aws_account_id> accordingly
 ```
 aws ecr get-login-password --region <region>| docker login --username AWS --password-stdin <aws_account_id>.dkr.ecr.<region>.amazonaws.com
 ```
