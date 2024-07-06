@@ -1,0 +1,200 @@
+{'id': '084c0708-9cc0-436b-8cd4-03063b72f8b4', 'objects': []}
+{'id': '2f28ac34-d5a2-4d34-9281-a814baa0c94c', 'objects': [{'label': 'person', 'accuracy': '0.81981754'}, {'label': 'sports ball', 'accuracy': '0.62919664'}]}
+{'id': '5df7741f-76ce-4800-9636-0f23986b6e79', 'objects': [{'label': 'cow', 'accuracy': '0.6395581'}]}
+{'id': '213da090-ee70-41d8-b724-58601c190c55', 'objects': [{'label': 'person', 'accuracy': '0.84118044'}, {'label': 'tennis racket', 'accuracy': '0.7647944'}, {'label': 'person', 'accuracy': '0.8698837'}, {'label': 'tennis racket', 'accuracy': '0.528029'}, {'label': 'tennis racket', 'accuracy': '0.64633924'}]}
+{'id': '86abce53-07c0-40b2-ac1b-ff1531884476', 'objects': [{'label': 'person', 'accuracy': '0.69456315'}, {'label': 'person', 'accuracy': '0.9276289'}, {'label': 'person', 'accuracy': '0.8658716'}, {'label': 'person', 'accuracy': '0.9984083'}, {'label': 'person', 'accuracy': '0.8738571'}]}
+{'id': '8bac36ac-edad-466a-b0a0-7eaee2b1ab0f', 'objects': [{'label': 'person', 'accuracy': '0.6317388'}, {'label': 'wine glass', 'accuracy': '0.7133162'}, {'label': 'wine glass', 'accuracy': '0.5744619'}]}
+{'id': 'ca90ccd2-1d98-4528-8d21-c6cfe6986030', 'objects': [{'label': 'zebra', 'accuracy': '0.928452'}]}
+{'id': 'b2ed74c4-0baf-4840-9407-c7831d82eaee', 'objects': [{'label': 'cow', 'accuracy': '0.80482584'}]}
+{'id': '0d5a56d5-6eef-4ef5-b4a0-543b3196b840', 'objects': [{'label': 'frisbee', 'accuracy': '0.5882788'}]}
+{'id': 'bde75e8f-8371-48be-b706-9e1b84760ecc', 'objects': [{'label': 'train', 'accuracy': '0.9197227'}]}
+{'id': '7c7b941d-fa9d-4959-8918-c11065a0ed3e', 'objects': [{'label': 'elephant', 'accuracy': '0.88419265'}, {'label': 'elephant', 'accuracy': '0.9559026'}]}
+{'id': 'db836f50-95b6-4b03-9ea6-d0072594b98a', 'objects': []}
+{'id': '5029fc9b-e8f8-4049-9203-6b49fcb6930a', 'objects': [{'label': 'carrot', 'accuracy': '0.5723805'}]}
+{'id': '92357a44-220f-481f-b5dd-39d3bfdc4130', 'objects': [{'label': 'tie', 'accuracy': '0.5115311'}]}
+{'id': '252aa1ad-06a2-4266-89a2-adcc374f4fd8', 'objects': [{'label': 'motorbike', 'accuracy': '0.83203346'}]}
+{'id': 'f9a78ea3-951a-4090-a1f8-ad245a0836f0', 'objects': []}
+{'id': '9ef94946-15e7-444e-aa60-7d5ecc559162', 'objects': [{'label': 'bottle', 'accuracy': '0.5262921'}, {'label': 'wine glass', 'accuracy': '0.8457478'}, {'label': 'pizza', 'accuracy': '0.62665856'}]}
+{'id': '0bbefdce-66be-4bcf-b358-c4d6b20b6388', 'objects': []}
+{'id': 'd5672736-96b6-4120-b20a-99d31ba666a5', 'objects': []}
+{'id': '04c9efcd-fce7-413d-a11d-96618101b8bb', 'objects': [{'label': 'person', 'accuracy': '0.56775874'}, {'label': 'tie', 'accuracy': '0.51605415'}]}
+{'id': '4d490925-3495-4c7f-b3e6-0d8fc018d9ac', 'objects': []}
+{'id': '7b2593e6-109c-441b-9b42-415ad14ce0bb', 'objects': [{'label': 'person', 'accuracy': '0.83842903'}]}
+{'id': 'd940d304-79bd-4980-8a78-5171cda7b17d', 'objects': []}
+{'id': '13d50bae-e994-407a-bf03-41f9869d195e', 'objects': []}
+{'id': '14760a6f-3841-48e4-b6b4-a4274e04e0d1', 'objects': []}
+{'id': 'f45c803e-4d6e-4490-81b3-58652afb0061', 'objects': [{'label': 'clock', 'accuracy': '0.97810066'}, {'label': 'clock', 'accuracy': '0.9281172'}, {'label': 'clock', 'accuracy': '0.87707573'}]}
+{'id': 'd28a1aa1-17d0-4d09-b2d8-98ca48b484ba', 'objects': []}
+{'id': '23a493d7-999e-47ba-b489-90fef57f3860', 'objects': [{'label': 'person', 'accuracy': '0.72713935'}, {'label': 'person', 'accuracy': '0.5097713'}]}
+{'id': '6b69ebef-cf3f-4343-8d3d-fb1206c4cf31', 'objects': []}
+{'id': 'efa8b2ab-e96f-445e-a8e2-31e76cfc3904', 'objects': [{'label': 'person', 'accuracy': '0.68368304'}]}
+{'id': '2537c95b-d1e1-414b-b9d5-4f637561d163', 'objects': [{'label': 'boat', 'accuracy': '0.67010534'}]}
+{'id': 'af3349a5-caa1-48a5-bf83-4c8eb9920985', 'objects': []}
+{'id': '95d0bdbb-5b63-4d97-bb0a-137a0a9886f1', 'objects': [{'label': 'person', 'accuracy': '0.84418863'}, {'label': 'person', 'accuracy': '0.67084'}, {'label': 'person', 'accuracy': '0.86280465'}, {'label': 'bowl', 'accuracy': '0.6237394'}, {'label': 'cup', 'accuracy': '0.742229'}]}
+{'id': '061ba114-e9e9-4225-af1d-d3596cd94f64', 'objects': [{'label': 'person', 'accuracy': '0.71092606'}, {'label': 'person', 'accuracy': '0.578137'}, {'label': 'person', 'accuracy': '0.80861497'}, {'label': 'person', 'accuracy': '0.6294313'}]}
+{'id': '54960959-4389-48b0-a16a-712afbeb1c28', 'objects': [{'label': 'person', 'accuracy': '0.63135386'}, {'label': 'person', 'accuracy': '0.6839998'}, {'label': 'person', 'accuracy': '0.90824646'}]}
+{'id': 'f3e1bf70-df26-44fc-a3e1-205ffd1edd05', 'objects': []}
+{'id': '47d9d6da-c3b5-4ed0-9cb9-8f77a1e1b378', 'objects': []}
+{'id': 'c65165d8-428a-43bc-909d-781b17ed428d', 'objects': [{'label': 'laptop', 'accuracy': '0.5943017'}, {'label': 'laptop', 'accuracy': '0.9521036'}, {'label': 'tvmonitor', 'accuracy': '0.83912945'}, {'label': 'laptop', 'accuracy': '0.94576323'}, {'label': 'laptop', 'accuracy': '0.89794165'}, {'label': 'tvmonitor', 'accuracy': '0.79878616'}, {'label': 'keyboard', 'accuracy': '0.73823565'}, {'label': 'mouse', 'accuracy': '0.7134349'}]}
+{'id': 'ecc4b5e2-b264-46de-b119-5f1783a25698', 'objects': [{'label': 'zebra', 'accuracy': '0.5154353'}, {'label': 'zebra', 'accuracy': '0.85723186'}, {'label': 'zebra', 'accuracy': '0.7059577'}]}
+{'id': 'b4b54fc8-dac6-4c81-9039-7b1248211208', 'objects': []}
+{'id': '79d454ea-244d-49c1-a914-185ba335d508', 'objects': [{'label': 'fire hydrant', 'accuracy': '0.7389258'}, {'label': 'fire hydrant', 'accuracy': '0.952557'}, {'label': 'fire hydrant', 'accuracy': '0.78761816'}, {'label': 'fire hydrant', 'accuracy': '0.9159075'}]}
+{'id': 'c1c77f4a-7c5c-49aa-b1f3-7837f49d6227', 'objects': [{'label': 'tennis racket', 'accuracy': '0.90445364'}, {'label': 'person', 'accuracy': '0.68012327'}, {'label': 'person', 'accuracy': '0.6186282'}, {'label': 'person', 'accuracy': '0.7885273'}, {'label': 'tennis racket', 'accuracy': '0.95451'}]}
+{'id': '3a44736d-6c19-4889-b098-297b5a127e06', 'objects': [{'label': 'cell phone', 'accuracy': '0.69518256'}]}
+{'id': 'cd47ab74-cffd-4c45-9008-df8e2aab5180', 'objects': [{'label': 'parking meter', 'accuracy': '0.60664994'}]}
+{'id': 'bb232ed4-2306-4250-9ea7-2725f94a01c1', 'objects': [{'label': 'person', 'accuracy': '0.57561'}, {'label': 'person', 'accuracy': '0.8562844'}, {'label': 'person', 'accuracy': '0.50781786'}, {'label': 'person', 'accuracy': '0.529337'}, {'label': 'person', 'accuracy': '0.75358164'}, {'label': 'person', 'accuracy': '0.695344'}]}
+{'id': '00f70284-5622-4229-a449-4db70c9b4aa0', 'objects': [{'label': 'aeroplane', 'accuracy': '0.6291377'}]}
+{'id': '29c66201-dec3-4651-929d-d6e6ed494304', 'objects': [{'label': 'person', 'accuracy': '0.7103786'}]}
+{'id': 'cc1db92b-4f3c-4c84-9fba-4871496025cf', 'objects': []}
+{'id': '0edd1c23-c865-486a-957e-a2526956dfd2', 'objects': [{'label': 'tvmonitor', 'accuracy': '0.95139086'}, {'label': 'person', 'accuracy': '0.6008953'}, {'label': 'tvmonitor', 'accuracy': '0.8826244'}, {'label': 'tvmonitor', 'accuracy': '0.64059746'}]}
+{'id': 'd3e0d22d-1885-43a0-9a75-dc2ad8dcf5da', 'objects': []}
+{'id': 'a1615860-8e22-43da-8b02-1ab124d34abb', 'objects': [{'label': 'person', 'accuracy': '0.53345984'}, {'label': 'cat', 'accuracy': '0.661548'}]}
+{'id': 'd393a5aa-10b2-442f-9d56-8eaf199c2fd7', 'objects': [{'label': 'person', 'accuracy': '0.76844573'}, {'label': 'person', 'accuracy': '0.67107105'}]}
+{'id': '35e0f188-1a65-494a-82eb-32774c46405c', 'objects': [{'label': 'person', 'accuracy': '0.7569429'}, {'label': 'person', 'accuracy': '0.56672066'}, {'label': 'pottedplant', 'accuracy': '0.5045345'}]}
+{'id': '101fd80b-e78b-4182-aeec-c68aab2508f1', 'objects': [{'label': 'bus', 'accuracy': '0.8302895'}]}
+{'id': '310a9af6-bcd6-47dc-8128-d94a35fbb8ed', 'objects': [{'label': 'chair', 'accuracy': '0.81984204'}, {'label': 'chair', 'accuracy': '0.8307251'}, {'label': 'chair', 'accuracy': '0.5170284'}, {'label': 'chair', 'accuracy': '0.61792004'}, {'label': 'chair', 'accuracy': '0.8325951'}]}
+{'id': '2b9662f6-c17e-469d-ab99-c49206bad1b6', 'objects': [{'label': 'person', 'accuracy': '0.8530288'}, {'label': 'person', 'accuracy': '0.8133155'}, {'label': 'sports ball', 'accuracy': '0.7321023'}]}
+{'id': 'e5944bf6-3857-4c9e-b554-8a633cbedd20', 'objects': []}
+{'id': '5b6b5485-0635-4024-b077-1a3f6d4e7759', 'objects': []}
+{'id': '923ab571-1ab9-4142-b7ae-9b48aaca2e26', 'objects': [{'label': 'stop sign', 'accuracy': '0.8936342'}, {'label': 'stop sign', 'accuracy': '0.92137057'}, {'label': 'car', 'accuracy': '0.69737536'}]}
+{'id': 'fa8d8c94-59de-4839-b2d5-919f43ec3605', 'objects': []}
+{'id': '6e05a360-8940-4758-8899-79a202bb0e58', 'objects': [{'label': 'refrigerator', 'accuracy': '0.58496296'}, {'label': 'sink', 'accuracy': '0.7101946'}, {'label': 'oven', 'accuracy': '0.656889'}, {'label': 'oven', 'accuracy': '0.76474065'}, {'label': 'microwave', 'accuracy': '0.55648977'}, {'label': 'microwave', 'accuracy': '0.63749975'}, {'label': 'oven', 'accuracy': '0.6911782'}]}
+{'id': '84c5dc26-21a1-41c8-87c1-47ceda3eea7d', 'objects': []}
+{'id': '77d2ab31-d382-4587-a5aa-dec9b5e282c6', 'objects': []}
+{'id': '771d914b-67be-411f-a828-697272614707', 'objects': []}
+{'id': '76e6041f-c8d6-4cf1-9f96-d25c6b33e64e', 'objects': [{'label': 'cat', 'accuracy': '0.51096'}]}
+{'id': '32b523b3-2d2c-4c69-a98e-f6bb517cf1a1', 'objects': [{'label': 'person', 'accuracy': '0.72647965'}, {'label': 'person', 'accuracy': '0.55355513'}]}
+{'id': 'b292ffc1-e486-4b81-bfb6-bd7243664002', 'objects': [{'label': 'bird', 'accuracy': '0.57549745'}]}
+{'id': '7f74402a-89cb-47e3-9dfb-97f0afcbf620', 'objects': [{'label': 'fork', 'accuracy': '0.56361127'}]}
+{'id': '38ebddac-1d3e-443e-94f9-c43afcdf0b37', 'objects': [{'label': 'giraffe', 'accuracy': '0.73473465'}]}
+{'id': '15675511-1642-444f-bac8-4084fbcff555', 'objects': [{'label': 'cat', 'accuracy': '0.93194276'}]}
+{'id': 'c788b5a9-da80-4dca-adf4-8ebd395d526a', 'objects': []}
+{'id': '0b4c81f1-6a51-4960-a73c-a06da4db3b61', 'objects': [{'label': 'motorbike', 'accuracy': '0.50244075'}]}
+{'id': '9df150e6-391d-4fba-a121-8c40526802cc', 'objects': []}
+{'id': 'a0e5d6d2-96b3-43c9-86d3-f24e6de75445', 'objects': [{'label': 'person', 'accuracy': '0.70513964'}, {'label': 'person', 'accuracy': '0.59974784'}, {'label': 'person', 'accuracy': '0.7664193'}, {'label': 'person', 'accuracy': '0.86632496'}, {'label': 'person', 'accuracy': '0.9088474'}, {'label': 'person', 'accuracy': '0.6813043'}, {'label': 'person', 'accuracy': '0.8030131'}, {'label': 'person', 'accuracy': '0.57741624'}, {'label': 'person', 'accuracy': '0.5420879'}, {'label': 'person', 'accuracy': '0.74256796'}]}
+{'id': 'c8452f89-3238-4f6c-8a82-4e950dc06af6', 'objects': [{'label': 'tennis racket', 'accuracy': '0.60608995'}, {'label': 'sports ball', 'accuracy': '0.9681402'}]}
+{'id': '6bcd26a6-d736-4fc9-987c-5fa63f103685', 'objects': [{'label': 'hot dog', 'accuracy': '0.9235486'}]}
+{'id': '21702a44-0250-4f08-9714-4d18de99474c', 'objects': [{'label': 'traffic light', 'accuracy': '0.6498695'}]}
+{'id': '48ef9a7a-ffe2-463c-baf7-522397ce96b6', 'objects': [{'label': 'car', 'accuracy': '0.5392357'}]}
+{'id': '7727a99c-12cd-4954-be49-99d7136ced88', 'objects': [{'label': 'person', 'accuracy': '0.5387197'}, {'label': 'person', 'accuracy': '0.63735276'}, {'label': 'person', 'accuracy': '0.9345763'}, {'label': 'person', 'accuracy': '0.93845904'}, {'label': 'person', 'accuracy': '0.6467781'}, {'label': 'person', 'accuracy': '0.76494193'}, {'label': 'person', 'accuracy': '0.91776216'}]}
+{'id': 'e1b63d20-76d5-4b3a-9bd6-f4f4ec1d69f7', 'objects': []}
+{'id': 'd8b95945-7212-4df5-9c93-dc65b2c81376', 'objects': [{'label': 'person', 'accuracy': '0.73178184'}, {'label': 'person', 'accuracy': '0.86806554'}, {'label': 'person', 'accuracy': '0.6587933'}]}
+{'id': '136ea26c-0a73-429e-b09f-133321e1f77a', 'objects': [{'label': 'chair', 'accuracy': '0.54370534'}]}
+{'id': '00b96439-ae07-4f90-bb19-95da7e7a89c7', 'objects': [{'label': 'chair', 'accuracy': '0.71975195'}, {'label': 'toilet', 'accuracy': '0.55541396'}, {'label': 'chair', 'accuracy': '0.63725066'}]}
+{'id': '8b658ffd-34de-4dba-8955-241912c8e9b7', 'objects': []}
+{'id': '373489be-a326-4fb0-a465-83b0ab89d896', 'objects': []}
+{'id': '42b1b095-643d-4189-b34f-6a2e3c813dda', 'objects': [{'label': 'toilet', 'accuracy': '0.972595'}]}
+{'id': '1f7bc8e8-23a4-47aa-87a2-4b21601ab761', 'objects': []}
+{'id': '72685cf1-4d74-4c63-ab8c-a33c35f954f2', 'objects': []}
+{'id': '17ca1c3c-746a-4770-808c-be6edca10d62', 'objects': [{'label': 'giraffe', 'accuracy': '0.75632447'}, {'label': 'giraffe', 'accuracy': '0.96778864'}, {'label': 'giraffe', 'accuracy': '0.62687796'}, {'label': 'giraffe', 'accuracy': '0.6294237'}, {'label': 'giraffe', 'accuracy': '0.64703166'}]}
+{'id': '4a901271-c2ab-48c0-96b8-02731d4cd186', 'objects': []}
+{'id': '3ba159c1-e28e-4a68-9e85-d41e952509a9', 'objects': [{'label': 'person', 'accuracy': '0.8369681'}]}
+{'id': 'bbe0b020-bf41-4b19-b63e-cc23f8f5cb48', 'objects': []}
+{'id': '527ef607-e3f9-4d46-a32a-1942419274b6', 'objects': [{'label': 'person', 'accuracy': '0.6586999'}, {'label': 'person', 'accuracy': '0.9592578'}, {'label': 'skateboard', 'accuracy': '0.62055224'}]}
+{'id': '42c5c3f5-055a-42dc-9375-839afaa8de5a', 'objects': [{'label': 'backpack', 'accuracy': '0.6387632'}, {'label': 'person', 'accuracy': '0.5220976'}]}
+{'id': 'fffe20de-9890-43cc-a54c-cd8816735518', 'objects': [{'label': 'car', 'accuracy': '0.5669799'}, {'label': 'car', 'accuracy': '0.6390714'}]}
+{'id': '4a5f67c0-1630-40b5-8d0d-bbfcb5d7bc66', 'objects': [{'label': 'clock', 'accuracy': '0.8320178'}]}
+{'id': 'edfd53a1-696b-4790-8525-3c9b4adc0211', 'objects': [{'label': 'kite', 'accuracy': '0.6127992'}, {'label': 'kite', 'accuracy': '0.6215582'}]}
+{'id': '57fe0b36-7c60-4d39-8983-3c033abd8873', 'objects': [{'label': 'person', 'accuracy': '0.83739823'}, {'label': 'tennis racket', 'accuracy': '0.5805989'}]}
+{'id': 'e4ce85d3-7f1b-44ff-a710-fd330a04a2cb', 'objects': [{'label': 'zebra', 'accuracy': '0.8473095'}, {'label': 'zebra', 'accuracy': '0.5743927'}, {'label': 'zebra', 'accuracy': '0.9195103'}]}
+{'id': '9059a27f-a22f-40ae-8b86-b7a9b70d6e0a', 'objects': []}
+{'id': '110086e0-5f28-477d-bc44-648b6db242e1', 'objects': []}
+{'id': '85e33a30-7a0b-44ae-9241-a8837ed02d6e', 'objects': [{'label': 'person', 'accuracy': '0.81981754'}, {'label': 'sports ball', 'accuracy': '0.62919664'}]}
+{'id': '0d31ca0a-035c-42a6-82f3-74309d799f18', 'objects': [{'label': 'cow', 'accuracy': '0.6395581'}]}
+{'id': 'ae1f46f2-ac33-4331-bb77-9c45b4b745d9', 'objects': [{'label': 'person', 'accuracy': '0.84118044'}, {'label': 'tennis racket', 'accuracy': '0.7647944'}, {'label': 'person', 'accuracy': '0.8698837'}, {'label': 'tennis racket', 'accuracy': '0.528029'}, {'label': 'tennis racket', 'accuracy': '0.64633924'}]}
+{'id': '8e3cc25c-c39e-4d01-b0d7-3e023efb3f17', 'objects': [{'label': 'person', 'accuracy': '0.69456315'}, {'label': 'person', 'accuracy': '0.9276289'}, {'label': 'person', 'accuracy': '0.8658716'}, {'label': 'person', 'accuracy': '0.9984083'}, {'label': 'person', 'accuracy': '0.8738571'}]}
+{'id': '8ebd98c4-9eb8-40cb-bcd4-095011b58ef5', 'objects': [{'label': 'person', 'accuracy': '0.6317388'}, {'label': 'wine glass', 'accuracy': '0.7133162'}, {'label': 'wine glass', 'accuracy': '0.5744619'}]}
+{'id': 'c2e7443c-6953-4244-8014-a52eebdabddb', 'objects': [{'label': 'zebra', 'accuracy': '0.928452'}]}
+{'id': 'e317cdf7-eaf2-4c81-a8fd-3b53f0b0076d', 'objects': [{'label': 'cow', 'accuracy': '0.80482584'}]}
+{'id': 'ab087aa6-b7b3-4864-99e0-178b38d15006', 'objects': [{'label': 'frisbee', 'accuracy': '0.5882788'}]}
+{'id': 'a2a9dca3-69c8-41b8-9859-53e4f70060ff', 'objects': [{'label': 'train', 'accuracy': '0.9197227'}]}
+{'id': '666e8867-d07d-4d05-b2b7-1a25acf57ef6', 'objects': [{'label': 'elephant', 'accuracy': '0.88419265'}, {'label': 'elephant', 'accuracy': '0.9559026'}]}
+{'id': 'fa69347f-7ee7-4f26-a15f-f7cc9838edd1', 'objects': []}
+{'id': '7aeb94d8-cb0e-46aa-a122-ca228f953ab9', 'objects': [{'label': 'carrot', 'accuracy': '0.5723805'}]}
+{'id': 'b330ac70-c163-4d97-9955-e4a1a326deae', 'objects': [{'label': 'tie', 'accuracy': '0.5115311'}]}
+{'id': '6e9966ae-58df-4aa7-928b-043d2c8115f9', 'objects': [{'label': 'motorbike', 'accuracy': '0.83203346'}]}
+{'id': 'd5b78357-ecf9-4bdd-b3f9-75f33e94159d', 'objects': []}
+{'id': '2d11042d-1f85-4b44-93c1-3a8f33ac4813', 'objects': [{'label': 'bottle', 'accuracy': '0.5262921'}, {'label': 'wine glass', 'accuracy': '0.8457478'}, {'label': 'pizza', 'accuracy': '0.62665856'}]}
+{'id': '8d701c86-e54a-4beb-9c1e-3c5e0815cd79', 'objects': []}
+{'id': '84db8cf9-ff10-48c4-a0c5-3c0ee1f4e15d', 'objects': []}
+{'id': 'd8162761-ad63-43f6-8db7-b0bb496ca091', 'objects': [{'label': 'person', 'accuracy': '0.56775874'}, {'label': 'tie', 'accuracy': '0.51605415'}]}
+{'id': '5945e21f-d91d-4006-9717-c2322986d4d9', 'objects': []}
+{'id': 'bc45f5aa-acc9-4e91-a8c2-405ec846ce65', 'objects': [{'label': 'person', 'accuracy': '0.83842903'}]}
+{'id': '81169bdc-2c4e-4043-ac9d-ddf92e2efd20', 'objects': []}
+{'id': '41490d40-a16e-4793-8bd3-cc8bb32a78de', 'objects': []}
+{'id': '86e8ac39-815c-4e35-ba16-90945a7e180d', 'objects': []}
+{'id': '9690d378-4359-4322-b99d-090ff5c27805', 'objects': [{'label': 'clock', 'accuracy': '0.97810066'}, {'label': 'clock', 'accuracy': '0.9281172'}, {'label': 'clock', 'accuracy': '0.87707573'}]}
+{'id': '01ddf36d-fd1e-479c-a7f3-6236d440beea', 'objects': []}
+{'id': '4c81bf84-1abe-43d3-9438-ce5fce25902e', 'objects': [{'label': 'person', 'accuracy': '0.72713935'}, {'label': 'person', 'accuracy': '0.5097713'}]}
+{'id': 'bf442660-29a0-439b-a20e-d1201d975ee6', 'objects': []}
+{'id': '073f64e8-a377-4f08-8f80-8e3bdf6d70e9', 'objects': [{'label': 'person', 'accuracy': '0.68368304'}]}
+{'id': 'de2d93ca-1d21-494e-9cb0-89a3b1937d4e', 'objects': [{'label': 'boat', 'accuracy': '0.67010534'}]}
+{'id': 'cf45d1d7-bb90-42d6-be33-982c3780a670', 'objects': []}
+{'id': '4e6f265f-0061-4fdb-aaae-56b86f42786a', 'objects': [{'label': 'person', 'accuracy': '0.84418863'}, {'label': 'person', 'accuracy': '0.67084'}, {'label': 'person', 'accuracy': '0.86280465'}, {'label': 'bowl', 'accuracy': '0.6237394'}, {'label': 'cup', 'accuracy': '0.742229'}]}
+{'id': '7331ab96-cd2c-446a-ba24-a065e77456be', 'objects': [{'label': 'person', 'accuracy': '0.71092606'}, {'label': 'person', 'accuracy': '0.578137'}, {'label': 'person', 'accuracy': '0.80861497'}, {'label': 'person', 'accuracy': '0.6294313'}]}
+{'id': '4d348138-5308-46fb-b0eb-71db4cfd35cc', 'objects': [{'label': 'person', 'accuracy': '0.63135386'}, {'label': 'person', 'accuracy': '0.6839998'}, {'label': 'person', 'accuracy': '0.90824646'}]}
+{'id': '3ef4335b-a048-4c00-b1a7-9ff75e8cfcf1', 'objects': []}
+{'id': '6387f629-c1b6-4354-a183-2ebd05757a08', 'objects': []}
+{'id': 'fa64ff39-e7f7-4504-84e9-965c03efda4e', 'objects': [{'label': 'laptop', 'accuracy': '0.5943017'}, {'label': 'laptop', 'accuracy': '0.9521036'}, {'label': 'tvmonitor', 'accuracy': '0.83912945'}, {'label': 'laptop', 'accuracy': '0.94576323'}, {'label': 'laptop', 'accuracy': '0.89794165'}, {'label': 'tvmonitor', 'accuracy': '0.79878616'}, {'label': 'keyboard', 'accuracy': '0.73823565'}, {'label': 'mouse', 'accuracy': '0.7134349'}]}
+{'id': 'c4627ef2-1326-4e0d-bbdf-564b784de23c', 'objects': [{'label': 'zebra', 'accuracy': '0.5154353'}, {'label': 'zebra', 'accuracy': '0.85723186'}, {'label': 'zebra', 'accuracy': '0.7059577'}]}
+{'id': 'fbcd948d-cd79-4acd-99aa-39a59f0a92d5', 'objects': []}
+{'id': '724b91fb-1aaa-4c74-b5a5-0a62a5c134cc', 'objects': [{'label': 'fire hydrant', 'accuracy': '0.7389258'}, {'label': 'fire hydrant', 'accuracy': '0.952557'}, {'label': 'fire hydrant', 'accuracy': '0.78761816'}, {'label': 'fire hydrant', 'accuracy': '0.9159075'}]}
+{'id': '13f9c7e1-7153-49ee-9528-bb3c314505b3', 'objects': [{'label': 'tennis racket', 'accuracy': '0.90445364'}, {'label': 'person', 'accuracy': '0.68012327'}, {'label': 'person', 'accuracy': '0.6186282'}, {'label': 'person', 'accuracy': '0.7885273'}, {'label': 'tennis racket', 'accuracy': '0.95451'}]}
+{'id': '253c7193-baa1-4cd9-81e7-eadaf025b0ef', 'objects': [{'label': 'cell phone', 'accuracy': '0.69518256'}]}
+{'id': 'df9cb101-e6f6-40a4-a479-a3a96961c562', 'objects': [{'label': 'parking meter', 'accuracy': '0.60664994'}]}
+{'id': '1e5cdb7a-3cfb-44a8-a0b4-c3f7e274bdbd', 'objects': [{'label': 'person', 'accuracy': '0.57561'}, {'label': 'person', 'accuracy': '0.8562844'}, {'label': 'person', 'accuracy': '0.50781786'}, {'label': 'person', 'accuracy': '0.529337'}, {'label': 'person', 'accuracy': '0.75358164'}, {'label': 'person', 'accuracy': '0.695344'}]}
+{'id': 'a85d596e-3b39-452c-b13d-9d9cdc6dddb0', 'objects': [{'label': 'aeroplane', 'accuracy': '0.6291377'}]}
+{'id': '904b9348-03f2-4d9f-a062-98803dcf9bcf', 'objects': [{'label': 'person', 'accuracy': '0.7103786'}]}
+{'id': '0138715a-752e-4ab4-9e12-510be07c8a87', 'objects': []}
+{'id': 'a84fb596-b229-4cc0-9e72-0e79292a2062', 'objects': [{'label': 'tvmonitor', 'accuracy': '0.95139086'}, {'label': 'person', 'accuracy': '0.6008953'}, {'label': 'tvmonitor', 'accuracy': '0.8826244'}, {'label': 'tvmonitor', 'accuracy': '0.64059746'}]}
+{'id': '4647ea34-89ac-4a71-853d-c0c2e6fcc905', 'objects': []}
+{'id': '01c06bd8-3152-4fd0-9109-ecc3caaffdcb', 'objects': [{'label': 'person', 'accuracy': '0.53345984'}, {'label': 'cat', 'accuracy': '0.661548'}]}
+{'id': '6770ec5c-3a42-44c6-8e1b-4813264c6d61', 'objects': [{'label': 'person', 'accuracy': '0.76844573'}, {'label': 'person', 'accuracy': '0.67107105'}]}
+{'id': '000a87e6-e06b-4b87-af5f-515c9076125b', 'objects': [{'label': 'person', 'accuracy': '0.7569429'}, {'label': 'person', 'accuracy': '0.56672066'}, {'label': 'pottedplant', 'accuracy': '0.5045345'}]}
+{'id': '2a9d7b59-3746-4b3b-8179-3aaaf53b0598', 'objects': [{'label': 'bus', 'accuracy': '0.8302895'}]}
+{'id': 'e8d2afe4-713f-4888-9b69-b97b806a78cf', 'objects': [{'label': 'chair', 'accuracy': '0.81984204'}, {'label': 'chair', 'accuracy': '0.8307251'}, {'label': 'chair', 'accuracy': '0.5170284'}, {'label': 'chair', 'accuracy': '0.61792004'}, {'label': 'chair', 'accuracy': '0.8325951'}]}
+{'id': '006879f0-3818-468f-9fe9-61bf6eb110c6', 'objects': [{'label': 'person', 'accuracy': '0.8530288'}, {'label': 'person', 'accuracy': '0.8133155'}, {'label': 'sports ball', 'accuracy': '0.7321023'}]}
+{'id': 'd1567110-9ed7-4edb-9c42-bd7a1054aeac', 'objects': []}
+{'id': '36da1340-ae7d-4663-9ccf-9867f96ef865', 'objects': []}
+{'id': '5759250b-1958-4ca3-bda1-5aa7021a2bb6', 'objects': [{'label': 'stop sign', 'accuracy': '0.8936342'}, {'label': 'stop sign', 'accuracy': '0.92137057'}, {'label': 'car', 'accuracy': '0.69737536'}]}
+{'id': '1c8efe3d-dd4b-45e9-b29a-cae1784588bd', 'objects': []}
+{'id': '77af47fc-8064-4d18-ba6b-e9e8d988352c', 'objects': [{'label': 'refrigerator', 'accuracy': '0.58496296'}, {'label': 'sink', 'accuracy': '0.7101946'}, {'label': 'oven', 'accuracy': '0.656889'}, {'label': 'oven', 'accuracy': '0.76474065'}, {'label': 'microwave', 'accuracy': '0.55648977'}, {'label': 'microwave', 'accuracy': '0.63749975'}, {'label': 'oven', 'accuracy': '0.6911782'}]}
+{'id': '2b761386-4314-4319-bf62-f29220c3a285', 'objects': []}
+{'id': 'f76b002f-a3c1-4f90-8d99-5a4be3078b6c', 'objects': []}
+{'id': '5405248e-b249-46ea-aba4-9ddfde67be5a', 'objects': []}
+{'id': 'ee145e80-741e-47cf-b269-f59e1ee922a3', 'objects': [{'label': 'cat', 'accuracy': '0.51096'}]}
+{'id': '14a56be8-f738-4ba8-b5d6-89ce6e45e88f', 'objects': [{'label': 'person', 'accuracy': '0.72647965'}, {'label': 'person', 'accuracy': '0.55355513'}]}
+{'id': '20ecaf31-5c5c-41c7-898a-6b38db8f2afc', 'objects': [{'label': 'bird', 'accuracy': '0.57549745'}]}
+{'id': '66cb8f9e-b4a1-412d-a7b8-9dc4fb5eaa99', 'objects': [{'label': 'fork', 'accuracy': '0.56361127'}]}
+{'id': '2652d8cb-f6e9-4a3f-b971-80b36457f27f', 'objects': [{'label': 'giraffe', 'accuracy': '0.73473465'}]}
+{'id': '35e3cab6-4136-4fea-9a16-80e49131bb6a', 'objects': [{'label': 'cat', 'accuracy': '0.93194276'}]}
+{'id': '7ddb6641-f244-4181-bc06-787ccb3e2d7d', 'objects': []}
+{'id': 'f76c91f8-9e60-43a7-8b9d-012df2fdda21', 'objects': [{'label': 'motorbike', 'accuracy': '0.50244075'}]}
+{'id': '0355d1d2-7724-41ef-88a4-8e9ff7de8966', 'objects': []}
+{'id': '096812a2-078d-491a-b34e-0cbd0af86f0e', 'objects': [{'label': 'person', 'accuracy': '0.70513964'}, {'label': 'person', 'accuracy': '0.59974784'}, {'label': 'person', 'accuracy': '0.7664193'}, {'label': 'person', 'accuracy': '0.86632496'}, {'label': 'person', 'accuracy': '0.9088474'}, {'label': 'person', 'accuracy': '0.6813043'}, {'label': 'person', 'accuracy': '0.8030131'}, {'label': 'person', 'accuracy': '0.57741624'}, {'label': 'person', 'accuracy': '0.5420879'}, {'label': 'person', 'accuracy': '0.74256796'}]}
+{'id': 'c6d06e9f-5847-41f3-9761-2b55c984341b', 'objects': [{'label': 'tennis racket', 'accuracy': '0.60608995'}, {'label': 'sports ball', 'accuracy': '0.9681402'}]}
+{'id': 'a2aebba3-c716-4e26-9539-26739605fe25', 'objects': [{'label': 'hot dog', 'accuracy': '0.9235486'}]}
+{'id': 'ad6b5d45-4a07-458b-b56c-4c66aca29ada', 'objects': [{'label': 'traffic light', 'accuracy': '0.6498695'}]}
+{'id': 'a9de7554-b25c-42df-ad7d-aa3273137910', 'objects': [{'label': 'car', 'accuracy': '0.5392357'}]}
+{'id': '22b350de-7602-4543-a42a-38308e527096', 'objects': [{'label': 'person', 'accuracy': '0.5387197'}, {'label': 'person', 'accuracy': '0.63735276'}, {'label': 'person', 'accuracy': '0.9345763'}, {'label': 'person', 'accuracy': '0.93845904'}, {'label': 'person', 'accuracy': '0.6467781'}, {'label': 'person', 'accuracy': '0.76494193'}, {'label': 'person', 'accuracy': '0.91776216'}]}
+{'id': 'fd72a487-de23-4985-ac9d-b413ce0521e7', 'objects': []}
+{'id': '5a30d3fc-779c-403e-b83d-bfbe93cf5e34', 'objects': [{'label': 'person', 'accuracy': '0.73178184'}, {'label': 'person', 'accuracy': '0.86806554'}, {'label': 'person', 'accuracy': '0.6587933'}]}
+{'id': '7d16a8f1-df5b-4df6-9c0b-d03e7b0dd740', 'objects': [{'label': 'chair', 'accuracy': '0.54370534'}]}
+{'id': 'b9e493df-96af-4276-b9a0-10d76da2d6ae', 'objects': [{'label': 'chair', 'accuracy': '0.71975195'}, {'label': 'toilet', 'accuracy': '0.55541396'}, {'label': 'chair', 'accuracy': '0.63725066'}]}
+{'id': 'fa1b186e-fbd0-4b33-a3e7-e349a292860a', 'objects': []}
+{'id': 'f328026b-75cf-422a-9851-b6ecab608ac6', 'objects': []}
+{'id': 'aa3761a6-312f-4dde-91b2-d87839c78534', 'objects': [{'label': 'toilet', 'accuracy': '0.972595'}]}
+{'id': 'd612818a-0cea-454b-8ba3-c8ddda0d786c', 'objects': []}
+{'id': '0acc30ec-ce7b-43a6-bb95-e45084269f5c', 'objects': []}
+{'id': 'd2177ca1-f1e0-4e64-9fb7-f040fe6efecc', 'objects': [{'label': 'giraffe', 'accuracy': '0.75632447'}, {'label': 'giraffe', 'accuracy': '0.96778864'}, {'label': 'giraffe', 'accuracy': '0.62687796'}, {'label': 'giraffe', 'accuracy': '0.6294237'}, {'label': 'giraffe', 'accuracy': '0.64703166'}]}
+{'id': 'eea48e8f-749d-4f08-9328-375994229182', 'objects': []}
+{'id': '949889f1-7c25-4d66-88b1-b84a8ad8ff0e', 'objects': [{'label': 'person', 'accuracy': '0.8369681'}]}
+{'id': '0ae8a121-6e50-4750-a20e-a342c56baeeb', 'objects': []}
+{'id': '67f1fd32-bc7f-473e-a688-ed6eddfa3e6c', 'objects': [{'label': 'person', 'accuracy': '0.6586999'}, {'label': 'person', 'accuracy': '0.9592578'}, {'label': 'skateboard', 'accuracy': '0.62055224'}]}
+{'id': 'd45e31f0-0a15-4b90-86cb-b706436171d1', 'objects': [{'label': 'backpack', 'accuracy': '0.6387632'}, {'label': 'person', 'accuracy': '0.5220976'}]}
+{'id': '1911eb7f-6324-4423-a824-311fe408c69a', 'objects': [{'label': 'car', 'accuracy': '0.5669799'}, {'label': 'car', 'accuracy': '0.6390714'}]}
+{'id': '31d4ff4d-e7b3-40bc-a7fa-e90a1a4f15f6', 'objects': [{'label': 'clock', 'accuracy': '0.8320178'}]}
+{'id': '78fe8c0d-ab5a-43c1-8f2a-177cf16f3740', 'objects': [{'label': 'kite', 'accuracy': '0.6127992'}, {'label': 'kite', 'accuracy': '0.6215582'}]}
+{'id': '96d48e89-4c73-4ebd-b0b5-ad8ab921e41b', 'objects': [{'label': 'person', 'accuracy': '0.83739823'}, {'label': 'tennis racket', 'accuracy': '0.5805989'}]}
+{'id': '49c5b4a9-b001-462e-81d5-1425fd964f22', 'objects': [{'label': 'zebra', 'accuracy': '0.8473095'}, {'label': 'zebra', 'accuracy': '0.5743927'}, {'label': 'zebra', 'accuracy': '0.9195103'}]}
+{'id': '66a8c90d-d5a0-4fc0-ae90-45f6d2da198d', 'objects': []}

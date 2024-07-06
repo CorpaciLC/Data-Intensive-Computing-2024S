@@ -20,8 +20,8 @@ def lambda_handler(event, context):
     t1_server = time.time()  # Start measuring Lambda execution time
     
     # Load YOLO model and labels
-    labels = open('/opt/coco.names').read().strip().split("\n")
-    net = cv2.dnn.readNetFromDarknet('/opt/yolov3-tiny.cfg', '/opt/yolov3-tiny.weights')
+    labels = open('/opt/yolo_tiny_configs/coco.names').read().strip().split("\n")
+    net = cv2.dnn.readNetFromDarknet('/opt/yolo_tiny_configs/yolov3-tiny.cfg', '/opt/yolo_tiny_configs/yolov3-tiny.weights')
     layer_names = net.getLayerNames()
     output_layers = [layer_names[i - 1] for i in net.getUnconnectedOutLayers()]
 
@@ -71,6 +71,7 @@ def lambda_handler(event, context):
         # DynamoDB
         table.put_item(
             Item={
+                'ImageID': s3_key,  # Add ImageID key
                 'ImageURL': s3_url,
                 'DetectedObjects': results
             }
