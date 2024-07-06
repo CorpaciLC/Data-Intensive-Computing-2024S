@@ -18,7 +18,7 @@ def send_image(image_path, server):
     t2_client = time.time()
 
     # Transfer Time saved
-    with open("output/local_client_TT.txt", "a") as f:
+    with open("output/local_client_TT_Claudia.txt", "a") as f:
         f.write(f"{image_id}, {t1_client}, {t2_client}\n")
 
     # Ensure correct response and return result
@@ -44,5 +44,5 @@ if __name__ == "__main__":
         image_path = os.path.join(input_folder, filename)
         result = send_image(image_path, server)
         print(result)
-        with open("output/results.txt", "a") as f:
+        with open("output/results_Claudia.txt", "a") as f:
             f.write(f"{result}\n")

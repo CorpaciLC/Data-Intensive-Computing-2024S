@@ -70,13 +70,13 @@ def detect_objects():
     avgTime = runtime / countImages
     print("Average Inference Time: " + str(avgTime))
 
-    with open("output\local_server_IT.txt", "a") as f:
+    with open("output\local_server_IT_Claudia.txt", "a") as f:
         f.write(f"{image_id}, {image_time}, {avgTime}\n")
     ##
 
     t2_server = time.time()
     # Transfer Time saved
-    with open("output\local_server_TT.txt", "a") as f:
+    with open("output\local_server_TT_Claudia.txt", "a") as f:
         f.write(f"{image_id}, {t1_server}, {t2_server}\n")
 
     return jsonify({'id': image_id, 'objects': results})
