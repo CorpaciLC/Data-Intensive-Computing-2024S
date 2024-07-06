@@ -56,13 +56,15 @@ docker push <aws_account_id>.dkr.ecr.<region>.amazonaws.com/lambda-docker:latest
 
 ```
 ### 7. Create Lambda Function and Deploy
-## 7.1 Go to the AWS Lambda console
-## 7.2 "Create Function"
-## 7.3 Choose container image as the function type
-## 7.4 Select image from ECR repo
-## 7.5 Configure the function. Set memory to 1024MB and timeout=10s
-## 7.6 Create function
-## 7.7 Deploy function
+**7.1 Go to the AWS Lambda console  and "Create Function"**
+
+**7.2 Choose container image as the function type and select image from ECR repo**
+
+**7.3 Configure the function. Set memory to 1024MB and timeout=10s**
+
+**7.4 Create function**
+
+**7.5 Deploy function**
 
 ### 8. Check CloudWatch for outputs and logs
 
