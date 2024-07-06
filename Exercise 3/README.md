@@ -18,19 +18,15 @@ This guide describes the steps to set up and deploy an AWS Lambda function with 
 Create a `Dockerfile` with the following content to set up the environment for the Lambda function:
 
 ```dockerfile
-# Use the official AWS Lambda Python base image
 FROM public.ecr.aws/lambda/python:3.11
-
-# Install dependencies
 RUN pip install numpy opencv-python-headless boto3
 
 # Copy YOLO config files from S3 bucket
 COPY yolo_tiny_configs /opt/yolo_tiny_configs
 
-# Copy function code
+# Copy lambda function
 COPY lambda_function.py ${LAMBDA_TASK_ROOT}
 
-# Set the CMD to your handler
 CMD ["lambda_function.lambda_handler"]
 ```
 
