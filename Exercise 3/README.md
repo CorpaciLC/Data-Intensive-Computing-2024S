@@ -1,3 +1,17 @@
+# Local 
+
+## Prerequisites
+- Needs yolo_tiny_configs folder with files from TUWEL
+
+## Steps
+Start server.py
+
+Run on data with:
+python .\client.py <inputfolder> <endpoint>
+
+python .\client.py .\input_folder_small\ http://localhost:8080
+
+
 # AWS Lambda with Docker and YOLO Configuration
 
 This guide describes the steps to set up and deploy an AWS Lambda function with Docker, including the necessary YOLO configuration files and dependencies (OpenCV, NumPy, and boto3). The Lambda function will be stored in Amazon Elastic Container Registry (ECR) and will process images for object detection, storing results in DynamoDB.
