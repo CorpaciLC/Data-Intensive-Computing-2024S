@@ -11,9 +11,7 @@ This guide describes the steps to set up and deploy an AWS Lambda function with 
 
 ## Steps
 
-### 1. Prepare YOLO Configuration Files
-
-Store the YOLO configuration files in an S3 bucket. Ensure the bucket is accessible to the Lambda function.
+### 1. Prepare YOLO Configuration Files and store them to an S3 bucket
 
 ### 2. Create a Dockerfile
 
