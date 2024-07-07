@@ -65,23 +65,17 @@ aws ecr create-repository --repository-name lambda-docker
 
 ### 6. Tag and Push Docker Image to ECR
 ```
-docker tag lambda_function:latest <aws_account_id>.dkr.ecr.<region>.amazonaws.com/lambda-docker:latest
+docker tag lambda_docker:latest <aws_account_id>.dkr.ecr.<region>.amazonaws.com/lambda-docker:latest
 docker push <aws_account_id>.dkr.ecr.<region>.amazonaws.com/lambda-docker:latest
 
 ```
 ### 7. Create Lambda Function and Deploy
-**7.1 Go to the AWS Lambda console  and "Create Function"**
+7.1 Go to the AWS Lambda console and choose "Create Function"
 
-**7.2 Choose container image as the function type and select image from ECR repo**
+7.2 Choose container image as the function type and select image from ECR repo
 
-**7.3 Configure the function. Set memory to 1024MB and timeout=10s**
+7.3 Configure the function. Set memory to 1024MB and timeout=10s
 
-**7.4 Create function**
+7.4 Add S3 bucket trigger for all create-events.
 
-**7.5 Deploy function**
-
-### 8. Check CloudWatch for outputs and logs
-
-### 9. Run export_dynamodb_to_csv.py
-
-### 10. Explore results and timings
+### 9. Explore results and timings
