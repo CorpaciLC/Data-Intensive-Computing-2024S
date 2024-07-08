@@ -79,3 +79,4 @@ docker push <aws_account_id>.dkr.ecr.<region>.amazonaws.com/lambda-docker:latest
 7.4 Add S3 bucket trigger for all create-events.
 
 ### 9. Explore results and timings
+See LocalExecution_Times.png and Execution_Times.png (local+aws) for the comparison of the measured times.
