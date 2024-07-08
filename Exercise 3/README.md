@@ -9,7 +9,7 @@ Start server.py
 Run on data with:
 python .\client.py <inputfolder> <endpoint>
 
-python .\client.py .\input_folder_small\ http://localhost:8080
+python .\client.py .\input_folder\ http://localhost:8080
 
 
 # AWS Lambda with Docker and YOLO Configuration
